@@ -1,0 +1,52 @@
+HTML - Home
+HTML - Overview
+HTML - Basic Tags
+HTML - Elements
+HTML - Attributes
+HTML - Formatting
+HTML - Phrase Tags
+HTML - Meta Tags
+
+Reff: HTML-Chap(1-7) Word File.
+
+HTML - Comments
+HTML - Images
+HTML - Tables
+HTML - Lists
+HTML - Text Links
+HTML - Image Links
+HTML - Email Links
+HTML - Frames
+HTML - Iframes
+HTML - Blocks
+HTML - Backgrounds
+HTML - Colors
+HTML - Fonts
+HTML - Forms
+HTML - Embed Multimedia
+HTML - Marquees
+HTML - Header
+HTML - Style Sheet
+HTML - Javascript
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.tutorialspoint.com/html/index.htm
